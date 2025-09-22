@@ -1,8 +1,13 @@
 # Virtual Lab Building Series
 
-<h2>Project Scenario</h2>
+<h2>Project Scenario(Morgan Maxwell Real Estate Company)</h2>
+- <b>Contracted to Morgan Maxwell Real Estate to overhaul their IT infrastructor and Systems.</b> 
+- <b>Currently have 50 staff connected to a workgroup network, no central file shares or storage, no backups, no monitoring or AV, no user management.</b>
+- <b>Mr Maxwell, the Principle Agent, has become concerned about this and has requested that we centralize his IT resources, data and user management, so he has better control of his resources</b> 
 
 <br />
+<br>
+
 
 **Why I built this lab**
 - To Get hands-on networking skills
