@@ -1,6 +1,6 @@
 # Virtual Lab Building Series
 
-**Objectives**
+**Why I built this lab**
 - To Get hands-on networking skills
 - To get hands-on system adminstration skills
 - Virtualization/hypervisor configuration experience
