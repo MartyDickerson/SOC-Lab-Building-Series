@@ -1,5 +1,9 @@
 # Virtual Lab Building Series
 
+<h2>Project Scenario</h2>
+
+<br />
+
 **Why I built this lab**
 - To Get hands-on networking skills
 - To get hands-on system adminstration skills
