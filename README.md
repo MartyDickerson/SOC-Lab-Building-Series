@@ -1,4 +1,4 @@
-# Virtual SOC Lab Building Series
+# Virtual Lab Building Series
 
 **Objectives**
 - Deploy a public-facing VM in Azure
