@@ -1,11 +1,13 @@
 # Virtual Lab Building Series
 
 **Objectives**
-- Deploy a public-facing VM in Azure
-- Expose the VM to simulate real-world attack conditions
-- Capture logs in Microsoft Sentinel
-- Visualize attacker behavior using workbooks
-- Simulate scans using nmap
+- To Get hands-on networking skills
+- To get hands-on system adminstration skills
+- Virtualization/hypervisor configuration experience
+- Hands-on pentesting skills
+- Learn how to monitor and defend against attacks
+- System/Device Hardening
+- Safe and controlled enviroment
 
 **Tools used:**
 1) Azure VM                                  
