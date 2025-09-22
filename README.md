@@ -25,14 +25,17 @@
 5) Nmap
 
 **Skills learned:**
-1) Kql Language
-2) Azure Infrastructure
-3) Network Configurations
+1) Virtual L2 Switch
+2) AD/DC/DNS Server
+3) Ubuntu Server
 4) Siem Intergrations
 5) Log Ingestion
 6) Threat Simulation and Testing
 7) Threat Hunting
 8) Workbook and Dashboard creation
+9) Kali attack machine
+10) Windows 10 Client
+11) Next-Gen Firewall(OPNsense)
 
 
 <h2>Step 1: Project Setup</h2>
