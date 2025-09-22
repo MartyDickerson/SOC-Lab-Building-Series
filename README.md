@@ -1,4 +1,4 @@
-# Virtual Lab Building Series
+# Virtual Lab Building
 
 **The Scenario(Morgan Maxwell Real Estate)**
 - Contracted to Morgan Maxwell Real Estate
@@ -18,7 +18,7 @@
 - Safe and controlled enviroment
 
 **Tools used:**
-1) Azure VM                                  
+1) Opensense Firewall                                  
 2) Azure Setinel                            
 3) Azure Analytics
 4) Network Security Groups                  
